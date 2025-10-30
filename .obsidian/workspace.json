@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Полученные уроки.md",
+                "file": "Main.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Полученные уроки"
+              "title": "Main"
             }
           }
         ],
@@ -197,8 +197,8 @@
   },
   "active": "a714646e3c2ed015",
   "lastOpenFiles": [
-    "Main.md",
     "Полученные уроки.md",
+    "Main.md",
     "Untitled.base",
     "Untitled 1.base",
     "Welcome.md"
